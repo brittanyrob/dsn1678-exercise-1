@@ -28,4 +28,18 @@ body {
 img {
   display: block;
   width: 100%;
+  border-radius: 2%;
+  position: absolute;
+  margin-top: -4%
 }
+
+.caption {
+
+  margin: 4%;
+  color: #fff;
+  font-size: 0.7901rem;
+  position: relative;
+  padding-top: 46%;
+  font-style: italic;
+  
+}	
